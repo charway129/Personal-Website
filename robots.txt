@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Bitte Sitemap-URL nach Live-Schaltung auf die finale Domain anpassen
-Sitemap: https://DOMAIN-HIER-EINSETZEN/sitemap.xml
+Sitemap: https://www.charway.de/sitemap.xml
