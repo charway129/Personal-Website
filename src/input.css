@@ -191,8 +191,10 @@
   .hero-discipline {
     font-family: Inter, system-ui, sans-serif;
     font-weight: 900;
-    font-size: clamp(56px, 11.5vw, 196px);
+    font-size: clamp(40px, 11.5vw, 196px);
     line-height: 1.02;
     letter-spacing: -0.045em;
+    overflow-wrap: break-word;
+    hyphens: auto;
   }
 }
